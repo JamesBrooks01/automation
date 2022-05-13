@@ -1,26 +1,12 @@
-# LAB - Class xx
+# LAB - Class 19
 
-## Project: Project Name Here
+## Project: Automation
 
-## Author: Student/Group Name
-
-## Links and Resources
-
-- back-end server url (when applicable)
-- front-end application (when applicable)
+## Author: James Brooks
 
 ## Setup
 
-- .env requirements (where applicable) i.e.
-  - PORT - Port Number
-  - DATABASE_URL - URL to the running Postgres instance/db
-
-- How to initialize/run your application (where applicable)
-  - e.g. python main.py
-- How to use your library (where applicable)
-
-## Tests
-
-- How do you run tests?
-- Any tests of note?
-- Describe any tests that you did not complete, skipped, etc
+- To instantiate the project, use the first command to install dependencies then the second to run the program.
+  - pip install -r requirements.txt
+  - python automation_lab/automation.py
+  
